@@ -1,0 +1,11 @@
+.chat-window{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 0.25em;
+}
+
+.message-sender{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 0.25em;
+}

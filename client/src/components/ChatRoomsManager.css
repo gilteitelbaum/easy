@@ -1,0 +1,5 @@
+.chat-room-manager{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 0.25em;
+}
